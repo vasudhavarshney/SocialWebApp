@@ -1,4 +1,4 @@
-####SocialMediaApp
+#### SocialMediaApp
 
 SocialMediaApp is a practice project designed to build a minimalist social media platform with essential functionalities. This project aims to provide a foundational understanding of web development, user authentication, profile management, and interactive social features.
 
